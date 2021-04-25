@@ -9,3 +9,21 @@ body {
 .floatLeft {
   float: left;
 }
+
+.dropdown-toggle {
+  margin-right: 2px;
+}
+
+/* #searchBtn {
+  margin-right: 60px;
+} */
+
+#dropdown {
+  width: 150px;
+  padding: 5px;
+}
+
+.btn-primary {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
